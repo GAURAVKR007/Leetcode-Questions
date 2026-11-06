@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountZeroRequestServers",
+            "request": "launch",
+            "mainClass": "CountZeroRequestServers",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "EvenTheOdds",
+            "request": "launch",
+            "mainClass": "EvenTheOdds",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MinimumOpsEqualSubarrays",
+            "request": "launch",
+            "mainClass": "MinimumOpsEqualSubarrays",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllOddLengthSubarrays",
+            "request": "launch",
+            "mainClass": "SumOfAllOddLengthSubarrays",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "TwoSumSortedArray",
+            "request": "launch",
+            "mainClass": "TwoSumSortedArray",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "PowerBadges",
+            "request": "launch",
+            "mainClass": "PowerBadges",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "ValidSuduko",
+            "request": "launch",
+            "mainClass": "ValidSuduko",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MinMovesEqualArray",
+            "request": "launch",
+            "mainClass": "MinMovesEqualArray",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MinOperationsWithKLockedIndexies",
+            "request": "launch",
+            "mainClass": "MinOperationsWithKLockedIndexies",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MinimumMergerIntger",
+            "request": "launch",
+            "mainClass": "MinimumMergerIntger",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "PeakAndValleys",
+            "request": "launch",
+            "mainClass": "PeakAndValleys",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MaximumMonstersDefeated",
+            "request": "launch",
+            "mainClass": "MaximumMonstersDefeated",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "LemonadeChange",
+            "request": "launch",
+            "mainClass": "LemonadeChange",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "SlidingWindowMaximum",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "AsteroidCollision",
+            "request": "launch",
+            "mainClass": "AsteroidCollision",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MatrixZeroGame",
+            "request": "launch",
+            "mainClass": "MatrixZeroGame",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "RottenOranges",
+            "request": "launch",
+            "mainClass": "RottenOranges",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "FloodFill",
+            "request": "launch",
+            "mainClass": "FloodFill",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MaxDepthNArray",
+            "request": "launch",
+            "mainClass": "MaxDepthNArray",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "ThirdMaxNum",
+            "request": "launch",
+            "mainClass": "ThirdMaxNum",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumSquare",
+            "request": "launch",
+            "mainClass": "MaxSumSquare",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstringWithoutRepeat",
+            "request": "launch",
+            "mainClass": "LongestSubstringWithoutRepeat",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfNotSelf",
+            "request": "launch",
+            "mainClass": "ProductOfNotSelf",
+            "projectName": "Leetcode-Questions_3fd91519"
+        },
+        {
+            "type": "java",
+            "name": "JumpGameIII",
+            "request": "launch",
+            "mainClass": "JumpGameIII",
+            "projectName": "Leetcode-Questions_1413c9a1"
+        },
+        {
+            "type": "java",
+            "name": "CheckIfArrayIsGood",
+            "request": "launch",
+            "mainClass": "CheckIfArrayIsGood",
+            "projectName": "Leetcode-Questions_1413c9a1"
+        },
+        {
+            "type": "java",
+            "name": "SumRootToLeaf",
+            "request": "launch",
+            "mainClass": "SumRootToLeaf",
+            "projectName": "Leetcode-Questions_1413c9a1"
+        },
+        {
+            "type": "java",
+            "name": "ClosestTarget",
+            "request": "launch",
+            "mainClass": "ClosestTarget",
+            "projectName": "Leetcode-Questions_1413c9a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
